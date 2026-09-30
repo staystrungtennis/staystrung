@@ -302,3 +302,7 @@ h1, h2, h3 { font-weight: 400; }
 .choose a .arr svg { width: 22px; }
 
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* pillars on cream */
+.pillars-light .pillar { border-top-color: var(--ink); }
+.pillars-light .pillar .display { color: var(--green); }
