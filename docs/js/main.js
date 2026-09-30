@@ -12,7 +12,7 @@
    endpoint URL it gives you (looks like https://formspree.io/f/abcdwxyz),
    and paste it below.
    ---------------------------------------------------------- */
-const FORM_ENDPOINT = "";
+const FORM_ENDPOINT = "https://formspree.io/f/xqpajnlr";
 const BOOKING_EMAIL = "staystrungtennis@gmail.com";
 
 /* ---------- mobile nav ---------- */
