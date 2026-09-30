@@ -1,0 +1,7 @@
+<svg viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg" style="overflow:visible">
+  <defs><clipPath id="a"><circle r="100"/></clipPath></defs>
+  <circle r="100" fill="#DBE577"/>
+  <g clip-path="url(#a)" fill="none" stroke="#F4ECDD" stroke-width="10">
+    <circle cx="-150" cy="0" r="92"/>
+    <circle cx="150" cy="0" r="92"/>
+  </g></svg>
